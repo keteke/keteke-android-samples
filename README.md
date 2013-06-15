@@ -1,4 +1,4 @@
 Keteke Android Samples
 ======================
 
-This repository contains sample projects illustrating usage of Android App Development by the Keteke project.
+This repository contains sample projects illustrating usage of Android SDK Development by the Keteke Labs.
